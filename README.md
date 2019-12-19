@@ -7,7 +7,7 @@ Code for RealMix. The technique provides state-of-the-art results for semi-super
 
 ## Paper
 
-Paper available at: "[RealMix: Towards Realistic Semi-Supervised Deep Learning Algorithms](https://arxiv.org/abs/________)" by Varun Nair, Javier Fuentes Alonso, and Tony Beltramelli.
+Paper available at: "[RealMix: Towards Realistic Semi-Supervised Deep Learning Algorithms](https://arxiv.org/abs/1912.08766)" by Varun Nair, Javier Fuentes Alonso, and Tony Beltramelli.
 
 To cite our work, please use the citation provided below:
 
@@ -15,7 +15,7 @@ To cite our work, please use the citation provided below:
 @article{nair2019realmix,
   title={RealMix: Towards Realistic Semi-Supervised Deep Learning Algorithms},
   author={Nair, Varun and Fuentes Alonso, Javier and Beltramelli, Tony},
-  journal={arXiv preprint arXiv:____________},
+  journal={arXiv preprint arXiv:1912.08766},
   year={2019}
 }
 ```
