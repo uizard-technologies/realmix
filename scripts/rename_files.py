@@ -44,7 +44,7 @@ else:
 if args.targetdir[-1] is not "/":
     args.targetdir += "/"
 
-files = [os.path.abspath(f) for f in glob.glob(args.targetdir+"**/*.png", recursive=True)]
+files = [os.path.abspath(f) for f in glob.glob(args.targetdir+"**/*"+filetype, recursive=True)]
 
 files.sort()
 
